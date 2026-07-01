@@ -1,15 +1,15 @@
 {
-    "name": "yiisoft/_____",
+    "name": "yiisoft/db-profiler",
     "type": "library",
-    "description": "_____",
+    "description": "Yii Database Profiler",
     "keywords": [
         "_____"
     ],
     "homepage": "https://www.yiiframework.com/",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/_____/issues?state=open",
-        "source": "https://github.com/yiisoft/_____",
+        "issues": "https://github.com/yiisoft/db-profiler/issues?state=open",
+        "source": "https://github.com/yiisoft/db-profiler",
         "forum": "https://www.yiiframework.com/forum/",
         "wiki": "https://www.yiiframework.com/wiki/",
         "irc": "ircs://irc.libera.chat:6697/yii",
@@ -42,12 +42,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Yiisoft\\_____\\": "src/"
+            "Yiisoft\\DbProfiler\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yiisoft\\_____\\Tests\\": "tests/"
+            "Yiisoft\\DbProfiler\\Tests\\": "tests/"
         }
     },
     "config": {
